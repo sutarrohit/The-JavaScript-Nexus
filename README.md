@@ -5,6 +5,13 @@
 
 Welcome to **The JavaScript Nexus**! This repository serves as your go-to resource for comprehensive documentation on three of the most essential technologies in web development: **JavaScript**, **Node.js**, and **React**. Whether you're a beginner or a seasoned developer, you'll find valuable information here to guide you through concepts, best practices, and advanced techniques.
 
+## MindMaps
+
+  - [Javascript-Mindmap](https://roadmap.sh/javascript)
+  - [React-Mindmap](https://roadmap.sh/react)
+  - [Node-Mindmap](https://roadmap.sh/nodejs)
+
+
 ## Table of Contents
 
 - [JavaScript](#javascript)
