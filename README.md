@@ -1,16 +1,13 @@
-
-
-
 # The JavaScript Nexus
 
-Welcome to **The JavaScript Nexus**! This repository serves as your go-to resource for comprehensive documentation on three of the most essential technologies in web development: **JavaScript**, **Node.js**, and **React**. Whether you're a beginner or a seasoned developer, you'll find valuable information here to guide you through concepts, best practices, and advanced techniques.
+Welcome to **The JavaScript Nexus**! This repository serves as your go-to resource for comprehensive documentation on four of the most essential technologies in web development: **JavaScript**, **TypeScript**, **Node.js**, and **React**. Whether you're a beginner or a seasoned developer, you'll find valuable information here to guide you through concepts, best practices, and advanced techniques.
 
 ## MindMaps
 
-  - [Javascript-Mindmap](https://roadmap.sh/javascript)
+  - [JavaScript-Mindmap](https://roadmap.sh/javascript)
+  - [TypeScript-Mindmap](https://roadmap.sh/typescript)
   - [React-Mindmap](https://roadmap.sh/react)
   - [Node-Mindmap](https://roadmap.sh/nodejs)
-
 
 ## Table of Contents
 
@@ -18,6 +15,10 @@ Welcome to **The JavaScript Nexus**! This repository serves as your go-to resour
   - Overview
   - Key Concepts
   - Advanced Topics
+- [TypeScript](#typescript)
+  - Introduction to TypeScript
+  - Type System
+  - Advanced TypeScript Features
 - [Node.js](#nodejs)
   - Introduction to Node.js
   - Core Modules
@@ -36,6 +37,14 @@ JavaScript is a powerful, flexible language that powers the modern web. In this 
 - **Overview**: Basics of JavaScript, syntax, data types, and operators.
 - **Key Concepts**: Deep dives into important topics like objects, arrays, functions, and events.
 - **Advanced Topics**: Asynchronous programming, closures, scope, and more.
+
+## TypeScript
+
+TypeScript is a superset of JavaScript that adds static typing, making it easier to catch errors during development. Here’s what you’ll learn:
+
+- **Introduction to TypeScript**: Why use TypeScript, its benefits, and setting up a TypeScript project.
+- **Type System**: Understanding types, interfaces, unions, tuples, and generics.
+- **Advanced TypeScript Features**: Utility types, type inference, mapped types, and working with third-party libraries.
 
 ## Node.js
 
