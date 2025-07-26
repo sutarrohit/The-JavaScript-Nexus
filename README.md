@@ -29,6 +29,10 @@ Welcome to **The JavaScript Nexus**! This repository serves as your go-to resour
   - Components & State Management
   - React Hooks
   - Advanced React Patterns
+- [You Don’t Know JS (YDKJS)](#YDKJS)
+  * Book Overview
+  * Key Takeaways
+  * Deep Dive into Core Concepts  
 
 ## JavaScript
 
