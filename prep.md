@@ -386,8 +386,6 @@ If you short on time, revise in THIS order:
 
 ---
 
----
-
 ##### ✅ I CAN ALSO PREPARE FOR YOU:
 
 If you want, I can:
@@ -396,3 +394,98 @@ If you want, I can:
 -   Do **system design interview for your Binance MCP Server**
 -   Do **AI MCP architecture whiteboard interview**
 -   Create **HR + behavioral interview answers optimized for remote jobs**
+
+---
+
+---
+
+# Testing
+
+## ✅ 1. TESTING FUNDAMENTALS (Must Know)
+
+Be ready to explain clearly:
+
+-   What is **Unit Testing**
+-   What is **Integration Testing**
+-   What is **End-to-End (E2E) Testing**
+-   Difference between:
+
+    -   Unit vs Integration vs E2E
+
+-   Test Pyramid concept
+-   TDD vs BDD (basic idea)
+-   Mocking vs Stubbing vs Spying
+-   Code Coverage:
+
+    -   Statement
+    -   Branch
+    -   Function coverage
+
+-   Flaky tests & how to fix them
+
+---
+
+## ✅ 2. FRONTEND TESTING (React + Next.js)
+
+### ✅ Tools You Should Prepare:
+
+-   **Jest or Vitest**
+-   **React Testing Library**
+-   **Playwright / Cypress (E2E)**
+
+### ✅ Topics to Study:
+
+-   Testing React components
+-   Testing forms & user input
+-   Testing API calls with mocks
+-   Testing async behavior (`waitFor`, `findBy`)
+-   Snapshot testing (and when NOT to use it)
+-   Mocking:
+
+    -   Fetch / Axios
+    -   Context providers
+    -   Zustand store
+
+-   Testing Next.js:
+
+    -   API routes
+    -   Server vs Client components
+    -   Middleware tests
+
+### ✅ Questions They May Ask:
+
+-   How do you test a React form?
+-   How do you mock API responses?
+-   How do you test protected routes?
+-   How do you handle async data fetching in tests?
+
+---
+
+## ✅ 3. BACKEND TESTING (Node.js, Express, Koa, tRPC)
+
+### ✅ Tools:
+
+-   **Jest / Vitest**
+-   **Supertest (for API testing)**
+-   **Testcontainers (optional but powerful)**
+
+### ✅ Topics:
+
+-   Testing REST APIs with Supertest
+-   Testing tRPC procedures
+-   Mocking:
+
+    -   Databases
+    -   Redis
+    -   External APIs (Binance)
+
+-   Middleware testing
+-   Testing auth flows (JWT)
+-   Error handling tests
+-   Rate limit testing
+
+### ✅ Essential Concepts:
+
+-   Dependency Injection for testability
+-   Testing request lifecycle
+-   Testing side effects (emails, logs, queues)
